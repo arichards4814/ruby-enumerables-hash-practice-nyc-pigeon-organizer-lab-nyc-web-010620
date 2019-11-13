@@ -2,7 +2,7 @@ def nyc_pigeon_organizer(data)
   
 newHash = {}
 
-pigeon_data.each do |key, value|
+data.each do |key, value|
     value.each do |key2, value2|
       value2.map do |ele|
         
