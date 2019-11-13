@@ -25,6 +25,5 @@ pigeon_data.each do |key, value|
     
 end
 
-
 newHash
 end
