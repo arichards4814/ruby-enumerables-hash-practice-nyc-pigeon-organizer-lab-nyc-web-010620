@@ -16,7 +16,7 @@ pigeon_data.each do |key, value|
           newHash[ele][key] = []
         end
           
-          #push the news values into our new array
+          #push the new values into our new array
         newHash[ele][key].push(key2.to_s)
 
       end
